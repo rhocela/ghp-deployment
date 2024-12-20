@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Sample Site',
-  tagline: 'GitHub and Docusaurus are cool',
+  tagline: 'GitHub and Docusaurus are awesome!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
